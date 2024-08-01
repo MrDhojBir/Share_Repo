@@ -1,0 +1,1 @@
+Step 6: The command cat ~/.ssh/id_ed25519.pub is used to display the contents of your SSH public key file in the terminal. When setting up SSH keys for GitHub, this command is crucial because it allows you to copy the public key and add it to your GitHub account.
