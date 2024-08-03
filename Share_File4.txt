@@ -1,0 +1,5 @@
+Public Repository 
+Public repos are accessible to everyone on the internet. Anyone can see the repo on GitHub.
+
+Private Repository
+Private repos are only accessible to the owner and people who have been granted access. 
