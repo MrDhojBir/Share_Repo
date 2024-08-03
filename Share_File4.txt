@@ -3,3 +3,5 @@ Public repos are accessible to everyone on the internet. Anyone can see the repo
 
 Private Repository
 Private repos are only accessible to the owner and people who have been granted access. 
+
+Steps to generate SSH Key and add to GitHub for single User
